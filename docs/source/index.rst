@@ -20,5 +20,4 @@ Contents
 
    usage
    api
-   secondtest
-   peterstest.md
+ 
