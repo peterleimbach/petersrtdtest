@@ -11,6 +11,8 @@ how to :ref:`installation` the project.
 
 And have a look here :doc:`secondtest`.
 
+And here :doc:`peterstest`.
+
 .. note::
 
    This project is under active development.
