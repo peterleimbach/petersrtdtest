@@ -24,4 +24,6 @@ Contents
 
    usage
    api
+   peterstest
+   secondtest
  
